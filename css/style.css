@@ -483,6 +483,7 @@ body {
 }
 
 .faq-answer {
+    display: none;
     font-family: var(--font-family);
     font-weight: 400;
     font-size: 18px;
